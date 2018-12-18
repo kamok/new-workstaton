@@ -32,3 +32,7 @@ mkdircd() {
 	mkdir -p -- "$1" && cd -P -- "$1"
 }
 ```
+
+### Colors
+iTerm2 https://github.com/YabataDesign/afterglow-itermcolors
+Git https://github.com/jimeh/git-aware-prompt
