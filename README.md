@@ -1,4 +1,4 @@
-# new-workstaton
+# new-workstation
 Things to install when at a new workstation
 
 ### Basic Apps
@@ -36,3 +36,12 @@ mkdircd() {
 ### Colors
 iTerm2 https://github.com/YabataDesign/afterglow-itermcolors
 Git https://github.com/jimeh/git-aware-prompt
+
+### GitX
+https://github.com/rowanj/gitx
+
+### Homebrew
+https://brew.sh/
+
+### Rbenv
+https://github.com/rbenv/rbenv
